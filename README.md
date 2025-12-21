@@ -333,7 +333,9 @@ This project demonstrates understanding of:
 
 ## 👥 Contributors
 
-- **shadowassassin0903** - *Lead Developer & Designer*
+- **Shaswat** - *Lead Developer & Designer*
+- **Anuj Kumar** - *UI & UX and Testing & Designer*
+- **Vikas Kumar** - *Testing and Support*
 
 ---
 
