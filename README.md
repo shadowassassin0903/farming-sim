@@ -335,7 +335,7 @@ This project demonstrates understanding of:
 
 - **Shaswat** - *Lead Developer & Designer*
 - **Anuj Kumar** - *UI & UX and Testing & Designer*
-- **Vikas Kumar** - *Testing and Support*
+- **Vikash Kumar** - *Testing and Support*
 
 ---
 
