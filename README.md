@@ -274,18 +274,6 @@ GameClient → HTTP POST → GameServlet → WorldState (in-memory)
 
 ---
 
-## 📸 Screenshots
-
-_Add your game screenshots here once you have them!_
-
-```
-[Gameplay Screenshot 1]
-[Gameplay Screenshot 2]
-[Shop System Screenshot]
-```
-
----
-
 ## 🎓 Learning Outcomes
 
 This project demonstrates understanding of:
@@ -327,7 +315,7 @@ This project demonstrates understanding of:
 - [ ] Add database persistence (MySQL/PostgreSQL)
 - [ ] Create tool upgrade system
 - [ ] Add farm animals (chickens, cows)
-- [ ] Implement quest/achievement system
+- [ ] Implement quest/achievement System
 
 ---
 
